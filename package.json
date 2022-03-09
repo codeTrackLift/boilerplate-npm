@@ -1,6 +1,10 @@
 {
-    "author": "Pete Chu",
 	"name": "fcc-learn-npm-package-json",
+    "author": "Pete Chu",
+    "description": "My First Web API",
+    "keywords": ["freecodecamp", "is", "awesome"],
+    "license": "MIT",
+    "version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
